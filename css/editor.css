@@ -1,0 +1,41 @@
+/* ---------------------------------------- */
+/*    C U S T O M  TINYMCE S T Y L E        */
+/* ---------------------------------------- */
+.wp-editor-container {
+	border: 1px solid #dadfea;
+	border-radius: 4px;
+}
+.comments-container .wp-editor-container {
+	border: 0;
+	/*border-top: 1px solid #dadfea;*/
+	border-bottom: 1px solid #dadfea;
+	border-radius: 0;
+}
+.comment-content .wp-editor-container {
+	border: 1px solid #dadfea;
+}
+div.mce-toolbar-grp {
+	background: transparent !important;
+	padding: 0 !important;
+}
+/*.mce-toolbar .mce-btn-group .mce-btn {
+	width: 30px;
+	height: 30px;
+	border-right: 1px solid #dadfea !important;
+	line-height: 1.8;
+	padding: 4px;
+	margin: 0 !important;
+}
+.mce-toolbar .mce-btn-group .mce-btn:hover {
+	border: none !important;
+	border-right: 1px solid #dadfea !important;
+}*/
+/*.mce-toolbar .mce-btn-group .mce-btn.mce-active {
+	background: none !important;
+	box-shadow: none !important;
+	-webkit-box-shadow: none !important;
+	border: none !important;
+}
+.mce-toolbar .mce-btn-group .mce-btn.mce-active button i {
+	color: #3a89cc;
+}*/

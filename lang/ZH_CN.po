@@ -1,0 +1,3477 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Q&AEngine v1.0\n"
+"Report-Msgid-Bugs-To: http://www.enginethemes.com/\n"
+"POT-Creation-Date: 2014-12-12 09:56+0700\n"
+"PO-Revision-Date: 2015-08-12 23:16+0800\n"
+"Last-Translator: dakachi <david87dang@gmail.com>\n"
+"Language-Team: Engine Themes <contact@enginethemes.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: F:/www/wp/wp-content/themes/qaengine\n"
+
+#: F:\www\wp\wp-content\themes\qaengine/404.php:16
+#: F:\www\wp\wp-content\themes\qaengine/mobile/404.php:15
+msgid "Ops! Lost your way?"
+msgstr "Ops! 怎么做?"
+
+#: F:\www\wp\wp-content\themes\qaengine/404.php:19
+#: F:\www\wp\wp-content\themes\qaengine/mobile/404.php:18
+msgid "Sorry, but the page you were looking for is not here."
+msgstr "抱歉？这个页面好像不存在！"
+
+#: F:\www\wp\wp-content\themes\qaengine/404.php:21
+#: F:\www\wp\wp-content\themes\qaengine/mobile/404.php:20
+msgid "Back to home page"
+msgstr "返回主页"
+
+#: F:\www\wp\wp-content\themes\qaengine/archive-question.php:20
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:354
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:141
+#: F:\www\wp\wp-content\themes\qaengine/page-pending.php:13
+#: F:\www\wp\wp-content\themes\qaengine/page-questions.php:17
+#: F:\www\wp\wp-content\themes\qaengine/taxonomy.php:15
+msgid "All Questions"
+msgstr "全部问题"
+
+#: F:\www\wp\wp-content\themes\qaengine/archive-question.php:38
+msgid "No questions has been created yet."
+msgstr "没有创建任何问题。"
+
+#: F:\www\wp\wp-content\themes\qaengine/author.php:20
+#, php-format
+msgid "%s's Profile"
+msgstr "% s’s 概况"
+
+#: F:\www\wp\wp-content\themes\qaengine/author.php:31
+#: F:\www\wp\wp-content\themes\qaengine/single-question.php:52
+#: F:\www\wp\wp-content\themes\qaengine/template-js/item-comment.php:14
+#: F:\www\wp\wp-content\themes\qaengine/template/item-answer.php:27
+#: F:\www\wp\wp-content\themes\qaengine/template/item-comment.php:20
+msgid "Edit"
+msgstr "编辑"
+
+#: F:\www\wp\wp-content\themes\qaengine/author.php:36
+msgid "Logout"
+msgstr "退出登录"
+
+#: F:\www\wp\wp-content\themes\qaengine/author.php:50
+msgid "Contact"
+msgstr "联系"
+
+#: F:\www\wp\wp-content\themes\qaengine/author.php:51
+#: F:\www\wp\wp-content\themes\qaengine/single-question.php:71
+msgid "Follow"
+msgstr "接下来"
+
+#: F:\www\wp\wp-content\themes\qaengine/author.php:60
+#: F:\www\wp\wp-content\themes\qaengine/mobile/author.php:32
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-users.php:100
+#: F:\www\wp\wp-content\themes\qaengine/page-users.php:97
+msgid "Earth"
+msgstr "地球"
+
+#: F:\www\wp\wp-content\themes\qaengine/author.php:64
+#: F:\www\wp\wp-content\themes\qaengine/mobile/author.php:38
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-users.php:101
+msgid "Email is hidden."
+msgstr "不显示邮箱"
+
+#: F:\www\wp\wp-content\themes\qaengine/author.php:96
+#: F:\www\wp\wp-content\themes\qaengine/mobile/author.php:54
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-users.php:104
+msgid "points"
+msgstr "见解"
+
+#: F:\www\wp\wp-content\themes\qaengine/author.php:101
+#: F:\www\wp\wp-content\themes\qaengine/author.php:122
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:348
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:360
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:297
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:408
+#: F:\www\wp\wp-content\themes\qaengine/mobile/author.php:80
+msgid "Questions"
+msgstr "问题"
+
+#: F:\www\wp\wp-content\themes\qaengine/author.php:107
+#: F:\www\wp\wp-content\themes\qaengine/author.php:125
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:887
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:899
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:411
+#: F:\www\wp\wp-content\themes\qaengine/mobile/author.php:83
+#: F:\www\wp\wp-content\themes\qaengine/mobile/single-question.php:146
+#: F:\www\wp\wp-content\themes\qaengine/single-answer.php:157
+msgid "Answers"
+msgstr "答案"
+
+#: F:\www\wp\wp-content\themes\qaengine/author.php:129
+#: F:\www\wp\wp-content\themes\qaengine/mobile/author.php:87
+msgid "Following"
+msgstr "接下来"
+
+#: F:\www\wp\wp-content\themes\qaengine/author.php:168
+#: F:\www\wp\wp-content\themes\qaengine/mobile/author.php:141
+msgid "There is no questions yet."
+msgstr "没有问题"
+
+#: F:\www\wp\wp-content\themes\qaengine/category.php:15
+#: F:\www\wp\wp-content\themes\qaengine/index.php:15
+#: F:\www\wp\wp-content\themes\qaengine/mobile/index.php:18
+#: F:\www\wp\wp-content\themes\qaengine/search.php:15
+#: F:\www\wp\wp-content\themes\qaengine/single.php:15
+msgid "Blog"
+msgstr "博客"
+
+#: F:\www\wp\wp-content\themes\qaengine/category.php:18
+#: F:\www\wp\wp-content\themes\qaengine/index.php:18
+#: F:\www\wp\wp-content\themes\qaengine/page-social-connect.php:22
+#: F:\www\wp\wp-content\themes\qaengine/page-term.php:19
+#: F:\www\wp\wp-content\themes\qaengine/page.php:19
+#: F:\www\wp\wp-content\themes\qaengine/search.php:18
+#: F:\www\wp\wp-content\themes\qaengine/single.php:18
+msgid "Search at blog"
+msgstr "搜索博客"
+
+#: F:\www\wp\wp-content\themes\qaengine/comments.php:14
+msgid "Be the first to post a comment."
+msgstr "是第一个发布评论。"
+
+#: F:\www\wp\wp-content\themes\qaengine/comments.php:14
+msgid "1 Comment on this article"
+msgstr "已对本文发表评论"
+
+#: F:\www\wp\wp-content\themes\qaengine/comments.php:14
+msgid "% Comments on this article"
+msgstr "%条评论"
+
+#: F:\www\wp\wp-content\themes\qaengine/comments.php:18
+msgid "Comment closed!"
+msgstr "评论关闭!"
+
+#: F:\www\wp\wp-content\themes\qaengine/comments.php:27
+msgid "Reply "
+msgstr "回复"
+
+#: F:\www\wp\wp-content\themes\qaengine/comments.php:41
+msgid "Add a comment"
+msgstr "添加一个评论"
+
+#: F:\www\wp\wp-content\themes\qaengine/header.php:79
+#: F:\www\wp\wp-content\themes\qaengine/mobile/functions.php:107
+msgid "Enter Keywords"
+msgstr "输入关键字"
+
+#: F:\www\wp\wp-content\themes\qaengine/header.php:100
+msgid "User Profile"
+msgstr "用户配置文件"
+
+#: F:\www\wp\wp-content\themes\qaengine/header.php:105
+msgid "User Settings"
+msgstr "用户设置"
+
+#: F:\www\wp\wp-content\themes\qaengine/header.php:111
+msgid "Log out"
+msgstr "注销"
+
+#: F:\www\wp\wp-content\themes\qaengine/header.php:119
+msgid "Login or Register"
+msgstr "登录或注册"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:191
+msgid "General"
+msgstr "一般"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:199
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:209
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:228
+msgid "Website Title"
+msgstr "网站标题"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:202
+msgid "Enter your website title."
+msgstr "输入您的网站标题。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:218
+msgid "Website Description"
+msgstr "网站描述"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:221
+msgid "Enter your website description"
+msgstr "输入你的网站描述"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:236
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:246
+msgid "Copyright"
+msgstr "版权"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:239
+msgid "This copyright information will appear in the footer."
+msgstr "这个版权信息将出现在页脚。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:254
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:264
+msgid "Google Analytics Script"
+msgstr "谷歌分析脚本"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:257
+msgid ""
+"Google analytics is a service offered by Google that generates detailed "
+"statistics about the visits to a website."
+msgstr "谷歌分析是一个谷歌提供的服务,生成访问一个网站的详细统计数据。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:272
+msgid "Email Confirmation"
+msgstr "电子邮件确认"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:275
+msgid ""
+"Enabling this will require users to confirm their email addresses after "
+"registration."
+msgstr "使这将需要注册后用户确认他们的电子邮件地址。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:282
+msgid "User Confirm"
+msgstr "用户确认"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:295
+msgid "Social"
+msgstr "社会"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:303
+msgid "Twitter API"
+msgstr "Twitter API"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:306
+msgid "Enabling this will allow users to login via Twitter."
+msgstr "使这将允许用户通过Twitter登录。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:313
+msgid "Twitter API "
+msgstr "Twitter API"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:320
+msgid "Twitter key "
+msgstr "Twitter key"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:322
+msgid "Twitter Consumer Key"
+msgstr "Twitter用户密钥"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:328
+msgid "Twitter secret "
+msgstr "Twitter的秘密"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:330
+msgid "Twitter Consumer Secret"
+msgstr "Twitter使用者的秘密"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:337
+msgid "Facebook API"
+msgstr "Facebook API"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:340
+msgid "Enabling this will allow users to login via Facebook."
+msgstr "使这将通过Facebook允许用户登录。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:347
+msgid "Facebook API "
+msgstr "Facebook API"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:354
+msgid "Facebook key "
+msgstr "Twitter key"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:356
+msgid "Facebook Application ID"
+msgstr "Facebook应用程序ID"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:363
+msgid "Google API"
+msgstr "Google API"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:366
+msgid "Enabling this will allow users to login via Google."
+msgstr "使这将通过谷歌允许用户登录。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:373
+msgid "Google API "
+msgstr "Google API"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:380
+msgid "Google key "
+msgstr "Google key"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:382
+msgid "Client ID"
+msgstr "客户ID"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:395
+msgid "Content"
+msgstr "内容"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:403
+msgid "Filter Bad Words ( Questions / Answers )"
+msgstr "过滤器坏词(问题/答案)"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:406
+msgid "Each word seperate by comma (,)"
+msgstr "每个词分离用逗号(,)"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:413
+msgid "Enter Keywords Here"
+msgstr "在这里输入关键字"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:421
+msgid "Intro Text"
+msgstr "介绍文本"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:424
+msgid "This text will appear in the intro page."
+msgstr "本文将出现在介绍页面。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:431
+msgid "Intro Slide Texts"
+msgstr "介绍幻灯片文本"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:438
+msgid "Intro Bottom Texts"
+msgstr "介绍下短信"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:447
+msgid "Custom Slugs"
+msgstr "自定义蛞蝓"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:450
+msgid ""
+"Add custom slugs for question & category here. (You need to save permalink "
+"structure to apply this change.)"
+msgstr "添加自定义蛞蝓问题&类别。(你需要保存永久链接结构应用这种变化。)"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:457
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:458
+msgid "Question Slug"
+msgstr "问题段塞"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:465
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:466
+msgid "Category Slug"
+msgstr "Category Slug"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:473
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:474
+msgid "Tag Slug"
+msgstr "标签蛞蝓"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:483
+msgid "Editor Upload Images"
+msgstr "编辑器上传图片"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:486
+msgid "Turn on / off Feature Images Upload in Editor."
+msgstr "开/关 功能图像上传编辑器。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:493
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:1067
+msgid "Upload Images"
+msgstr "上传图片"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:501
+msgid "Login To View Content"
+msgstr "登录查看内容"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:504
+msgid "If you enable this option, users have to login to see content."
+msgstr "如果您启用此选项,用户必须登录看到的内容。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:511
+msgid "Login"
+msgstr "登录"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:520
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:530
+msgid "Pending Questions"
+msgstr "悬而未决的问题"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:523
+msgid ""
+"If you enable this option, the new posted questions have to be approved to "
+"be displayed."
+msgstr "如果您启用此选项,新发布的问题必须要显示批准。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:539
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:549
+msgid "Pending Answers"
+msgstr "等待答案"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:542
+msgid ""
+"If you enable this option, the new posted answers have to be approved to be "
+"displayed."
+msgstr "如果您启用此选项,新公布的答案必须要显示批准。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:558
+msgid "Email Notification For Followed Questions"
+msgstr "电子邮件通知后的问题"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:561
+msgid ""
+"If you enable this option, whenever there’s a new answer for the followed "
+"questions, the system will automatically send emails to the following users."
+msgstr ""
+"如果您启用此选项,每当有一个新的回答后面的问题,系统将自动发送电子邮件到以下用"
+"户。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:568
+msgid "Send Mail Following"
+msgstr "发送邮件之后"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:577
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:587
+msgid "Live Notifications"
+msgstr "生活的通知"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:580
+msgid "Turn on / off live notifications feature."
+msgstr "开/关住通知功能。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:601
+msgid "Branding"
+msgstr "品牌"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:610
+msgid "Site logo"
+msgstr "网站的LOGO"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:614
+msgid ""
+"Your logo should be in PNG, GIF or JPG format, within 150x50px and less than "
+"1500Kb."
+msgstr "你的标志应该是PNG、GIF或JPG格式,在150 x50px和小于1500 kb。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:621
+msgid "Site Logo"
+msgstr "网站的标志"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:634
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:645
+msgid "Mobile Icon"
+msgstr "移动图标"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:638
+msgid ""
+"This icon will be used as a launcher icon for iPhone and Android smartphones "
+"and also as the website favicon. The image dimensions should be 57x57px."
+msgstr ""
+"这个图标将被用作一个发射器的图标为iPhone和Android的智能手机和网站图标。图像尺"
+"寸应该57 x57px。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:658
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:669
+msgid "Intro Page Background"
+msgstr "介绍页面背景"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:662
+msgid ""
+"This image will be used as a background image in Intro Page. The image "
+"dimensions should be 1400x700px or more and size less than 1000KB."
+msgstr ""
+"这张图片将被用作介绍页面的背景图像。图像尺寸应该1400 x700px和规模小于1000 "
+"kb。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:687
+msgid "Mailing"
+msgstr "邮件"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:696
+msgid "Authentication Mail Template"
+msgstr "认证邮件模板"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:705
+msgid "Mail description here"
+msgstr "在这里邮件描述"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:706
+msgid ""
+"Email templates for authentication process. You can use placeholders to "
+"include some specific content."
+msgstr "邮件模板进行身份验证过程。您可以使用占位符包括一些具体内容。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:707
+msgid "user's details you want to send mail"
+msgstr "您想发送邮件的用户的细节"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:708
+msgid "member dashboard url "
+msgstr "成员仪表板url"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:709
+msgid "question title, link and details"
+msgstr "问题标题、链接和细节"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:710
+msgid "activate link is require for user to renew their pass"
+msgstr "激活链接是他们通过要求用户更新"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:711
+msgid " site info, admin email"
+msgstr "pubs info,电子网站"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:721
+msgid "Register Mail Template"
+msgstr "注册邮件模板"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:730
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:787
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:947
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:965
+msgid "Register Mail"
+msgstr "注册邮件"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:740
+msgid "Confirmation Mail Template"
+msgstr "确认邮件模板"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:749
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:768
+msgid "Confirmation Mail"
+msgstr "确认邮件"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:759
+msgid "Confirmed Mail Template"
+msgstr "确认邮件模板"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:778
+msgid "Forgotpass Mail Template"
+msgstr "确认邮件模板"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:796
+msgid "Resetpass Mail Template"
+msgstr "Resetpass邮件模板"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:805
+msgid "Resetpassword Mail"
+msgstr "Resetpassword邮件"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:814
+msgid "Pending Questions Mail Template"
+msgstr "悬而未决的问题邮件模板"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:823
+msgid "Pending Questions Mail"
+msgstr "悬而未决的问题的邮件"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:832
+msgid "New Answer Mail Template"
+msgstr "新回答邮箱模板"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:841
+msgid "New Answer Mail"
+msgstr "新回答邮箱"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:850
+msgid "Report Mail Template"
+msgstr "汇报邮箱模板"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:859
+msgid "Report Mail"
+msgstr "汇报邮箱"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:868
+msgid "Best Answer Mail Template"
+msgstr "最牛回答邮箱模板"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:877
+msgid "Best Answer Mail"
+msgstr "最牛邮件回复"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:886
+msgid "Ban User Mail Template"
+msgstr "禁止用户邮箱版面"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:895
+msgid "Ban User Mail"
+msgstr "禁止用户邮箱"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:904
+msgid "Inbox Mail Template"
+msgstr "收件箱中的邮件模板"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:913
+msgid "Inbox User Mail"
+msgstr "邮箱用户邮件"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:928
+msgid "Language"
+msgstr "语言"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:937
+msgid "Website Language"
+msgstr "网站语言"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:941
+msgid "Select the language you want to use for your website."
+msgstr "为你的网站选择你想要使用的语言。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:955
+msgid "Translator"
+msgstr "翻译"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:959
+msgid "Translate a language"
+msgstr "翻译语言"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:979
+#: F:\www\wp\wp-content\themes\qaengine/template-js/item-answer.php:57
+#: F:\www\wp\wp-content\themes\qaengine/template-js/item-comment.php:26
+#: F:\www\wp\wp-content\themes\qaengine/template/item-answer.php:74
+#: F:\www\wp\wp-content\themes\qaengine/template/item-comment.php:36
+msgid "Update"
+msgstr "更新"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:988
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:997
+msgid "License Key"
+msgstr "许可证密钥"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:1026
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-overview.php:42
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-overview.php:53
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-overview.php:54
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-overview.php:55
+msgid "Overview"
+msgstr "概述"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:1027
+msgid "OVERVIEW"
+msgstr "概述"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:1031
+#, php-format
+msgid "%s overview"
+msgstr "% s 概述"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:1053
+msgid "Settings"
+msgstr "设置"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:1054
+msgid "SETTINGS"
+msgstr "设置"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:1058
+msgid "Manage how your Q&A Engine looks and feels"
+msgstr "管理你的问答引擎的外观和感觉"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:1079
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:301
+msgid "Members"
+msgstr "成员"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:1080
+msgid "MEMBERS"
+msgstr "成员"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:1084
+msgid "Overview of registered members"
+msgstr "注册会员的概述"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:1098
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/fields/users-container.php:137
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/template/user-item.php:18
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:405
+#: F:\www\wp\wp-content\themes\qaengine/page-users.php:45
+msgid "Points"
+msgstr "见解"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:1107
+msgid "Positive Point"
+msgstr "积极见解"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:1110
+msgid "Set up points that users can gain"
+msgstr "设置点,用户可以获得"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:1118
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:1121
+#: F:\www\wp\wp-content\themes\qaengine/page-badges.php:33
+msgid "create a question"
+msgstr "创建一个问题"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:1126
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:1129
+msgid "answer a question"
+msgstr "回答一个问题"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:1134
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:1137
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-badges.php:42
+#: F:\www\wp\wp-content\themes\qaengine/page-badges.php:44
+msgid "question is voted up"
+msgstr "问题是投票了"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:1142
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:1145
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-badges.php:46
+#: F:\www\wp\wp-content\themes\qaengine/page-badges.php:55
+msgid "answer is voted up"
+msgstr "答案是投票了"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:1150
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:1153
+msgid "answer is marked 'accepted' "
+msgstr "答案是标志着“接受”"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:1169
+msgid "Negative Point"
+msgstr "消极的观点"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:1172
+msgid "Set up points that user can lose"
+msgstr "设置点,用户可以失去"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:1179
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:1182
+msgid "your question is voted down"
+msgstr "你的问题是否决"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:1187
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:1190
+msgid "your answer is voted down"
+msgstr "你的答案是否决"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:1196
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:1199
+msgid "you vote down an answer or question"
+msgstr "你否决一个答案或问题"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:1222
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:1231
+msgid "Privileges"
+msgstr "特权"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:1234
+msgid "Set up point users have to achieve to have specific privileges"
+msgstr "设置用户指向实现特定的特权"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:1245
+msgid "Level"
+msgstr "级别"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:1268
+msgid "User Badges"
+msgstr "用户徽章"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:1269
+msgid "USER BADGES"
+msgstr "用户徽章"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/admin.php:1273
+msgid "Manage what your members can do."
+msgstr "管理你的成员可以做什么。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-languages.php:118
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-languages.php:311
+msgid "Invalid file name!"
+msgstr "无效的文件名!"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-languages.php:129
+msgid "Adding new language successfully."
+msgstr "成功添加新语言包"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-languages.php:325
+msgid "There was no changes in your translation."
+msgstr "你的翻译没有变化。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-languages.php:399
+msgid "Translation saved! "
+msgstr "翻译得救了!"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-languages.php:458
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-languages.php:489
+msgid "Type the translation in your language"
+msgstr "类型的翻译你的语言"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-languages.php:503
+msgid "Loading successfully!"
+msgstr "加载成功!"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-overview.php:46
+msgid "3 Months Overview"
+msgstr "3个月的概述"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-overview.php:49
+msgid "2 weeks Overview"
+msgstr "2个月的概述"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-overview.php:53
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-overview.php:54
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-overview.php:55
+msgid "Signup"
+msgstr "注册"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-page.php:71
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-contact.php:17
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-report.php:17
+msgid "Loading..."
+msgstr "加载……"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-page.php:72
+msgid "Loading"
+msgstr "加载"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-page.php:78
+msgid "Image Files"
+msgstr "图像文件"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-page.php:97
+msgid "Administration"
+msgstr "管理员"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-page.php:97
+msgid "You are an admin. Here you administrate."
+msgstr "你是一个管理。在这里你管理。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-page.php:221
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-page.php:222
+msgid "Engine Settings"
+msgstr "Engine设置"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-page.php:285
+#: F:\www\wp\wp-content\themes\qaengine/includes/badges.php:206
+msgid "Update option successfully!"
+msgstr "更新成功的选择!"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-page.php:309
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:842
+#: F:\www\wp\wp-content\themes\qaengine/includes/social_auth.php:121
+msgid "There is an error occurred"
+msgstr "有错误发生"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-page.php:315
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:888
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:848
+msgid "Missing image ID"
+msgstr "失踪的形象标识"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-page.php:324
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:883
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:862
+msgid "Security error!"
+msgstr "安全错误!"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-page.php:352
+msgid "Branding image has been uploaded successfully"
+msgstr "品牌形象已经成功上传"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-page.php:357
+msgid "Error when updating settings."
+msgstr "当更新设置错误。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-page.php:365
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:895
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:911
+msgid "Uploaded file not found"
+msgstr "上传文件未找到"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-page.php:387
+msgid "Site Dashboard"
+msgstr "网站指示板"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-post.php:164
+msgid "Post not found!"
+msgstr "后没有找到!"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-post.php:265
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-users.php:284
+msgid "Invalid method"
+msgstr "无效的方法"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-users.php:46
+msgid "Input invalid"
+msgstr "输入无效的"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-users.php:55
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/template/user-item.php:68
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1249
+#, php-format
+msgid "Join on %s"
+msgstr "加入在% s"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-users.php:103
+msgid "Username only lowercase letters (a-z) and numbers are allowed."
+msgstr "用户名只允许小写字母(a - z)和数字。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-users.php:164
+msgid "This email is already used. Please enter a new email."
+msgstr "这封邮件已经使用。请输入一个新的电子邮件。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-users.php:211
+msgid "You cannot change other user password"
+msgstr "你不能改变其他用户密码"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-users.php:215
+msgid "Retype password is not equal."
+msgstr "重新键入密码并不是平等的。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-users.php:222
+msgid "The password entered do not match."
+msgstr "输入的密码不匹配。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-users.php:328
+msgid "Get users successfull"
+msgstr "让用户成功"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-users.php:331
+msgid "No user found by your query"
+msgstr "没有发现用户查询"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/class-ae-users.php:344
+msgid "Update user successful!"
+msgstr "更新用户成功!"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/fields/field-image.php:49
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-upload-images.php:21
+msgid "Browse"
+msgstr "浏览"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/fields/field-language-list.php:68
+msgid "Add a new language"
+msgstr "添加一个新的语言"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/fields/field-language-list.php:70
+msgid "Enter language name"
+msgstr "输入语言名称"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/fields/field-language-list.php:79
+msgid "Language name"
+msgstr "语言的名字"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/fields/field-language-list.php:80
+msgid "Enter the language's name"
+msgstr "输入语言的名称"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/fields/field-language-list.php:81
+msgid "Add language"
+msgstr "添加语言"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/fields/field-language-list.php:82
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:813
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:1072
+#: F:\www\wp\wp-content\themes\qaengine/mobile/author.php:97
+#: F:\www\wp\wp-content\themes\qaengine/mobile/functions.php:56
+#: F:\www\wp\wp-content\themes\qaengine/mobile/functions.php:106
+#: F:\www\wp\wp-content\themes\qaengine/mobile/functions.php:130
+#: F:\www\wp\wp-content\themes\qaengine/mobile/single-question.php:224
+#: F:\www\wp\wp-content\themes\qaengine/mobile/template-js/item-answer.php:68
+#: F:\www\wp\wp-content\themes\qaengine/template-js/item-answer.php:60
+#: F:\www\wp\wp-content\themes\qaengine/template-js/item-answer.php:117
+#: F:\www\wp\wp-content\themes\qaengine/template-js/item-comment.php:29
+#: F:\www\wp\wp-content\themes\qaengine/template/item-answer.php:78
+#: F:\www\wp\wp-content\themes\qaengine/template/item-comment.php:39
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-upload-images.php:33
+msgid "Cancel"
+msgstr "取消"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/fields/field-translate.php:48
+msgid "Choose a Language"
+msgstr "选择一种语言"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/fields/field-translate.php:56
+msgid "Save"
+msgstr "保存"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/fields/field-translate.php:60
+msgid ""
+"The system will automatically save your translation after every 20 strings."
+msgstr "每20后系统将自动保存您的翻译字符串。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/fields/users-container.php:51
+msgid "All"
+msgstr "所有"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/fields/users-container.php:58
+msgid "Search users..."
+msgstr "搜索用户……"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/fields/users-container.php:66
+msgid "All Users"
+msgstr "所有用户"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/fields/users-container.php:81
+msgid "More Users"
+msgstr "更多的用户"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/fields/users-container.php:92
+msgid "Ban user"
+msgstr "禁止用户"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/fields/users-container.php:97
+msgid "Ban for"
+msgstr "禁止的"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/fields/users-container.php:107
+msgid "Reason"
+msgstr "原因"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/fields/users-container.php:112
+msgid "Close"
+msgstr "关闭"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/fields/users-container.php:113
+#: F:\www\wp\wp-content\themes\qaengine/mobile/functions.php:55
+msgid "Submit"
+msgstr "提交"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/fields/users-container.php:145
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/template/user-item.php:30
+#, php-format
+msgid "Banned until %s"
+msgstr "禁止到% s"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/fields/users-container.php:149
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/template/user-item.php:35
+msgid "Unban this user"
+msgstr "注:此用户"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/fields/users-container.php:151
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/template/user-item.php:39
+msgid "Ban this user"
+msgstr "禁止该用户"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/fields/users-container.php:155
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/template/user-item.php:45
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:300
+msgid "Confirm this user"
+msgstr "确认这个用户"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/functions.php:194
+#, php-format
+msgid "Not enough space to upload. %1$s KB needed."
+msgstr ""
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/functions.php:196
+#, php-format
+msgid "This file is too big. Files must be less than %1$s KB in size."
+msgstr ""
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/functions.php:198
+msgid "You have used your space quota. Please delete files before uploading."
+msgstr "你用你的空间配额。上传前请删除文件。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/template/user-item.php:57
+msgid "Posts"
+msgstr "的帖子"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/aecore/template/user-item.php:60
+msgid "Comments"
+msgstr "评论"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/badges.php:26
+#: F:\www\wp\wp-content\themes\qaengine/includes/badges.php:27
+msgid "Pack"
+msgstr "包"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/badges.php:28
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:12
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:350
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:889
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:556
+msgid "Add New"
+msgstr "添加新问题"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/badges.php:29
+msgid "Add New Pack"
+msgstr "添加新包"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/badges.php:30
+msgid "Edit Pack"
+msgstr "编辑包"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/badges.php:31
+msgid "New Pack"
+msgstr "新包"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/badges.php:32
+msgid "All Packs"
+msgstr "所有的包"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/badges.php:33
+msgid "View Pack"
+msgstr "视图包"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/badges.php:34
+msgid "Search Packs"
+msgstr "搜索包"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/badges.php:35
+msgid "No Pack found"
+msgstr "没有找到包"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/badges.php:36
+msgid "NoPacks found in Trash"
+msgstr "NoPacks发现垃圾"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/badges.php:38
+msgid "Packs"
+msgstr "包"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/badges.php:114
+#: F:\www\wp\wp-content\themes\qaengine/includes/badges.php:153
+#: F:\www\wp\wp-content\themes\qaengine/includes/section-badges.php:59
+#, php-format
+msgid "%d points"
+msgstr ""
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/badges.php:143
+msgid "content here"
+msgstr "内容在这里"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/badges.php:168
+msgid "Sync success."
+msgstr "同步成功。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/badges.php:237
+msgid "Vote up a question/answer"
+msgstr "一个问题/答案投票"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/badges.php:238
+msgid "Leave comments on other people's posts"
+msgstr "留下评论别人的帖子"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/badges.php:239
+msgid "Vote down a question/answer"
+msgstr "投票问题/回答"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/badges.php:241
+msgid "Add new tags to the site"
+msgstr "添加新标签"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/badges.php:242
+msgid "Edit any question"
+msgstr "编辑任何问题"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/badges.php:243
+msgid "Edit any answer"
+msgstr "编辑任何回答"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/badges.php:244
+msgid "Approve any answer"
+msgstr "批准任何答案"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/badges.php:289
+msgid "Default"
+msgstr "默认的"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:10
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:11
+msgid "change log"
+msgstr "更改日志"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:13
+msgid "Add New log"
+msgstr "添加新日志"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:14
+msgid "Edit log"
+msgstr "编辑日志"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:15
+msgid "New change log"
+msgstr "新的变更日志"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:16
+msgid "All change logs"
+msgstr "所有变更日志"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:17
+msgid "View change log"
+msgstr "视图更改日志"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:18
+msgid "Search change logs"
+msgstr "搜索改变日志"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:19
+msgid "No change log found"
+msgstr "没有更改日志发现"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:20
+msgid "Nochange logs found in Trash"
+msgstr "Nochange日志中发现的垃圾"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:22
+msgid "change logs"
+msgstr "修改日志"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:181
+#, php-format
+msgid "Your question \"%s\" was voted up, earned %d points"
+msgstr "你的问题是“% s”投票,获得% d点"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:187
+#, php-format
+msgid "Your answer on question \"%s\" was voted up, earned %d points"
+msgstr "你对问题的回答“% s”投票,获得% d点"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:215
+#, php-format
+msgid "Your question \"%s\" was voted down, earned %d points"
+msgstr "你的问题“% s”被否决,获得% d点"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:221
+#, php-format
+msgid "Your answer on question \"%s\" was voted down, earned %d points"
+msgstr "你对问题的回答“% s”被否决,获得% d点"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:248
+#, php-format
+msgid "Your question \"%s\" was unvoted, return %d points"
+msgstr "你的问题“% s”unvoted,返回% d点"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:253
+#, php-format
+msgid "Your answer on question \"%s\" was unvoted, return %d points"
+msgstr "你对问题的回答“% s”unvoted,返回% d点"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:280
+#, php-format
+msgid "Your answer on question \"%s\" was marked best answer, gain %d points"
+msgstr "你对问题的回答“% s”是最好的答案,获得% d点"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:307
+#, php-format
+msgid "Your best answer on question \"%s\" was undo, gain %d points"
+msgstr "你最好回答对问题“% s”被撤销,获得% d点"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:334
+#, php-format
+msgid "You answered on question \"%s\""
+msgstr "你回答问题“% s”"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:339
+#, php-format
+msgid "Your posted a question \"%s\" "
+msgstr "你发布一个问题“% s”"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:367
+#, php-format
+msgid "You question on question \"%s\" was edited"
+msgstr "你问题问题“% s”编辑"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:372
+#, php-format
+msgid "Your answer on question \"%s was edited\""
+msgstr "你对问题的回答“% s是编辑”"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:407
+msgid "This is default text."
+msgstr "这是默认的文本。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:413
+#, php-format
+msgid "Your answer on question %s was voted up."
+msgstr "你对问题的回答% s投票了。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:415
+#, php-format
+msgid "You voted up an answer on question %s."
+msgstr "你投票了回答问题% s。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:423
+#, php-format
+msgid "Your answer on question %s was voted down."
+msgstr "你对问题的回答% s被否决。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:425
+#, php-format
+msgid "Your voted down an answer on question %s."
+msgstr "你的投票否决了一个% s回答上问题。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:434
+#, php-format
+msgid "Your question %s was voted up."
+msgstr "你的问题% s投票了。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:436
+#, php-format
+msgid "You voted up question %s."
+msgstr "你投票问题% s。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:445
+#, php-format
+msgid "Your question %s was voted down."
+msgstr "你的问题% s被否决。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:447
+#, php-format
+msgid "You voted down question %s."
+msgstr "你否决问题% s。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:453
+#, php-format
+msgid "You asked %s."
+msgstr "你问% s。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:460
+#, php-format
+msgid "Your question %s was edited."
+msgstr "你的问题% s是编辑。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:462
+#, php-format
+msgid "You edited question %s."
+msgstr "你编辑问题% s。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:469
+#, php-format
+msgid "You answered question %s."
+msgstr "你回答问题% s。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:477
+#, php-format
+msgid "Your answer on question %s was edited."
+msgstr "你对问题的回答% s是编辑。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:479
+#, php-format
+msgid "You edited answer on question %s."
+msgstr "你编辑回答问题% s。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:486
+#, php-format
+msgid "Your question %s was unvoted."
+msgstr "你的问题unvoted % s。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:488
+#, php-format
+msgid "You unvoted question %s."
+msgstr "你unvoted问题% s。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:496
+#, php-format
+msgid "Your answer on question %s was unvoted."
+msgstr "你对问题的回答unvoted % s。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:498
+#, php-format
+msgid "Your unvoted an answer on question %s."
+msgstr "你对问题% s的unvoted答案。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:505
+#, php-format
+msgid "Your answer on question %s was marked as the accepted answer."
+msgstr "你对问题的回答% s被标记为接受的答案。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:507
+#, php-format
+msgid "You marked question %s was answered."
+msgstr "你标志问题% s回答。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:514
+#, php-format
+msgid "Your best answer on question %s was unaccepted."
+msgstr "你最好回答上问题% s是不承担的。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/changelog.php:516
+#, php-format
+msgid "You changed the best answer on question %s."
+msgstr "你改变了最好的回答上问题% s。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/customizer.php:25
+msgid "QA Options"
+msgstr "QA选项"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/customizer.php:28
+msgid "Allows you to customize some example settings for QAEngine."
+msgstr "允许您定制QAEngine一些示例设置。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/customizer.php:83
+msgid "Link Color"
+msgstr "链接颜色"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/customizer.php:94
+msgid "Main Action Color"
+msgstr "主要动作的颜色"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/customizer.php:105
+msgid "Sidebar Background Color"
+msgstr "边栏背景颜色"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/customizer.php:116
+msgid "Header Background Color"
+msgstr "标题背景颜色"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/customizer.php:127
+msgid "Header Menus Background Color"
+msgstr "标题菜单背景颜色"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:183
+msgid "You need to verify your account to view the content."
+msgstr "您需要验证您的帐户查看内容。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:194
+msgid "Your account has been confirmed successfully!"
+msgstr "你的账户已经确认成功!"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:480
+msgid "Congratulations! Your account has been confirmed successfully."
+msgstr "恭喜你!您的帐户已成功确认。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:559
+msgid "You must log in to post question."
+msgstr "你必须登录后的问题。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:562
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:664
+msgid "Post title should not contain any HTML Tag."
+msgstr "文章标题不应包含任何HTML标记。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:567
+msgid "You don't have enough point to add a comment."
+msgstr "你没有足够的点添加评论。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:579
+msgid "An error occur when created comment."
+msgstr "一个错误发生在创建置评。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:584
+msgid "Comment has been created successfully."
+msgstr "评论已经成功创建。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:598
+msgid "An error occur when created answer."
+msgstr "一个错误发生在创建的回答。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:601
+msgid ""
+"Your answer has been created successfully and need to be approved by Admin "
+"before displayed!"
+msgstr "你的回答已经成功创建,需要通过管理之前显示!"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:601
+msgid "Answer has been created successfully."
+msgstr "答案已成功创建。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:624
+msgid ""
+"Your question has been created successfully. It'll appear right after being "
+"approved by admin."
+msgstr "你的问题已经被成功创建。它会被管理员批准后出现。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:624
+msgid "Question has been created successfully."
+msgstr "问题已经被成功创建。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:630
+msgid "An error occur when created question."
+msgstr "一个错误发生在创建问题。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:660
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:864
+msgid "Invalid action"
+msgstr "无效的行动"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:670
+msgid "You don't have enough point to vote up."
+msgstr "你没有足够的投票了。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:672
+msgid "You don't have enough point to vote down."
+msgstr "你没有足够的否决。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:688
+msgid "Only question author can mark answered."
+msgstr "唯一的问题作者可以马克回答。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:756
+msgid "Question has been saved successfully."
+msgstr "问题已成功保存。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:783
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:353
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:280
+msgid "New Question"
+msgstr "新问题"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:784
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:281
+msgid "There's a new post, why don't you give a look at"
+msgstr "有一个新的职位,你为什么不给看看"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:793
+msgid "You've just successfully approved a question."
+msgstr "你刚刚成功地通过了一项问题。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:802
+msgid "You've just successfully approved an answer."
+msgstr "你刚刚成功地批准了一个答案。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:819
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1126
+msgid "Login required"
+msgstr "需要登录"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:825
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:1000
+msgid "Error occurred"
+msgstr "错误发生"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:828
+msgid "You have started following this question."
+msgstr "你已经开始以下这个问题。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:830
+msgid "You have stopped following this question."
+msgstr "你已经停止了这个问题。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:845
+msgid "Invalid post"
+msgstr "无效后"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:852
+msgid "You have reported successfully"
+msgstr "你有成功报道"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:858
+msgid "Error when reported!"
+msgstr "当报告错误!"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:899
+msgid "Image file size is too big.Size must be less than < 1MB."
+msgstr "图像文件尺寸太大了。尺寸必须小于< 1 mb。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:914
+msgid "The file was uploaded successfully"
+msgstr "文件上传成功"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:1004
+msgid "Comment deleted successfully!"
+msgstr "评论成功删除!"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:1012
+msgid "Answer deleted successfully!"
+msgstr "回答成功删除!"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/front.php:1018
+msgid "Question deleted successfully!"
+msgstr "问题成功删除!"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:265
+msgid "Member not found"
+msgstr "员没有发现"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:411
+#, php-format
+msgid "You have been banned from %s"
+msgstr "你被禁止% s"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:660
+msgid "Your account has been deleted successfully."
+msgstr "您的帐户已成功删除。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:706
+msgid "Your profile has been updated!"
+msgstr "你的资料已经更新!"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:715
+msgid "Please enter all required information to reset your password."
+msgstr "请输入所需的所有信息,重置你的密码。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:718
+msgid "Confirmed password does not matched"
+msgstr "确认密码不匹配"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:725
+msgid "Old password is not correct."
+msgstr "旧密码不正确。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:729
+msgid "Your new password cannot be empty."
+msgstr "你的新密码不能是空的。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:740
+msgid "Your password was changed! Please login again!"
+msgstr "你的密码被改变了!请重新登录!"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:777
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:825
+msgid "Your login information was incorrect. Please try again."
+msgstr "你的登录信息是不正确的。请再试一次。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:787
+#, php-format
+msgid "Your account has been banned. Reason \"%s\". Expired on \"%s\"."
+msgstr "您的帐户已被禁止。“% s”的理由。过期的“% s”。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:813
+#: F:\www\wp\wp-content\themes\qaengine/includes/social_auth.php:596
+#: F:\www\wp\wp-content\themes\qaengine/includes/social_auth.php:704
+msgid "You have logged in successfully"
+msgstr "您已经成功登录"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:835
+msgid "You have logged out"
+msgstr "你已经登录了"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:855
+msgid "Missing user data"
+msgstr "用户数据丢失"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:898
+msgid "User logo has been uploaded successfully!"
+msgstr "用户标识已经成功上传!"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:903
+msgid "Problem occurred while updating user field"
+msgstr "更新用户字段时发生问题"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:943
+msgid ""
+"You have registered an account successfully but are not able to join the "
+"discussions yet. Please confirm your email address first."
+msgstr "你已经成功注册一个帐户,但没有能加入讨论。请先确认您的电子邮件地址。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:943
+msgid "You are registered and logged in successfully."
+msgstr "你注册并登录成功。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:970
+msgid "<strong>ERROR</strong>: Enter username or email address."
+msgstr "<strong>错误< /strong>:输入用户名或电子邮件地址。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:974
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr "<strong>错误< /strong>:没有用户注册的电子邮件地址。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:994
+msgid "Please check your email inbox to reset password."
+msgstr "请检查你的电子邮箱重置密码。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1004
+msgid "This user is not found."
+msgstr "这个用户没有找到。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1006
+msgid "Invalid Key"
+msgstr "无效的关键字"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1008
+msgid "Please enter your new password"
+msgstr "请输入你的新密码"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1027
+msgid "Your password has been changed. Please log in again."
+msgstr "你的密码已经改变了。请再次登录。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1046
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1175
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1210
+msgid "You don't have permission"
+msgstr "你没有权限"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1051
+msgid "Required user ID."
+msgstr "需要用户ID。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1060
+msgid "User has been confirmed"
+msgstr "用户已经确认"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1093
+msgid "No result found"
+msgstr "没有找到结果"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1138
+msgid "New Private Message From "
+msgstr "新的私人信息"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1151
+msgid "Email sending failed."
+msgstr "邮件发送失败了。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1156
+msgid "Message was sent successfully."
+msgstr "消息发送成功。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1187
+msgid "User has been banned"
+msgstr "用户被禁止"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1223
+msgid "User has been unbanned"
+msgstr "用户已经合法组织"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1358
+msgid "This email address was not found."
+msgstr "这个电子邮件地址不存在。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1374
+msgid "Username is invalid"
+msgstr "用户名是无效的"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1423
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1426
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1432
+msgid "Invalid key"
+msgstr "无效关键字"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1452
+msgid "<strong>ERROR</strong>: Invalid username or email address."
+msgstr "<强>错误< /强>:无效的用户名或电子邮件地址。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1466
+msgid "Password reset is not allowed for this user"
+msgstr "这个用户的密码重置是不允许的"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1482
+msgid "There is a request to reset the password for the following account:"
+msgstr "有一个请求重置后的密码帐户:"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1484
+#, php-format
+msgid "Username: %s"
+msgstr "用户名:% s"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1485
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr "如果这是一个错误,请忽略这封邮件,什么都不会发生。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1486
+msgid "To reset your password, visit the following link:"
+msgstr "重置您的密码,请访问以下链接:"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1498
+#, php-format
+msgid "[%s] Password Reset"
+msgstr "(% s)密码重置"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1504
+msgid "The email could not be sent."
+msgstr "电子邮件不能发送。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1504
+msgid "Possible reason: your host may have disabled the mail() function..."
+msgstr "可能的原因:你的主机可能禁用邮件()函数……"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1550
+msgid "1 Day"
+msgstr "1天"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1554
+msgid "3 Days"
+msgstr "3天"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1558
+msgid "7 Days"
+msgstr "7天"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1562
+msgid "15 Days"
+msgstr "15天"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1566
+msgid "1 Month"
+msgstr "1个月"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1570
+msgid "3 Months"
+msgstr "3个月"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1574
+msgid "6 Months"
+msgstr "6个月"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1578
+msgid "1 Year"
+msgstr "1年"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/members.php:1582
+msgid "Forever"
+msgstr "永远"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:68
+msgid "Missing Author"
+msgstr "失踪的作者"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:98
+msgid "Thread not found!"
+msgstr "线程没有找到!"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:349
+msgid "Question"
+msgstr "问题"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:351
+msgid "Add New Question"
+msgstr "添加新问题"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:352
+msgid "Edit Question"
+msgstr "编辑的问题"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:355
+msgid "View Question"
+msgstr "查看问题"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:356
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:137
+msgid "Search Questions"
+msgstr "搜索的问题"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:357
+msgid "No questions found"
+msgstr "没有发现问题"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:358
+msgid "No questions found in Trash"
+msgstr "没有发现垃圾的问题"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:380
+msgid "Question Categories"
+msgstr "问题类别"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:381
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:390
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:43
+#: F:\www\wp\wp-content\themes\qaengine/mobile/archive-question.php:17
+#: F:\www\wp\wp-content\themes\qaengine/mobile/taxonomy.php:17
+msgid "Category"
+msgstr "问题类别"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:382
+msgid "Search Categories"
+msgstr "搜索类别"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:383
+msgid "All Categories"
+msgstr "所有类别"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:384
+msgid "Parent Category"
+msgstr "父类别"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:385
+msgid "Parent Category:"
+msgstr "父类别:"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:386
+msgid "Edit Category"
+msgstr "编辑类别"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:387
+msgid "Update Category"
+msgstr "更新类别"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:388
+msgid "Add New Category"
+msgstr "添加新类别"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:389
+msgid "New Category Name"
+msgstr "新类别名称"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:402
+msgid "Search Tags"
+msgstr "搜索标签"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:403
+msgid "Popular Tags"
+msgstr "受欢迎的标签"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:404
+msgid "All Tags"
+msgstr "所有标签"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:407
+msgid "Edit Tag"
+msgstr "编辑标签"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:408
+msgid "Update Tag"
+msgstr "更新标签"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:409
+msgid "Add New Tag"
+msgstr "添加新标签"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:410
+msgid "New Tag Name"
+msgstr "新的标签名称"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:411
+msgid "Separate tags with commas"
+msgstr "单独的标签用逗号"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:412
+msgid "Add or remove tags"
+msgstr "添加或删除标签"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:413
+msgid "Choose from the most used tags"
+msgstr "选择最常用的标签"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:414
+msgid "No tags found."
+msgstr "发现没有标签。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:415
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-tags.php:19
+#: F:\www\wp\wp-content\themes\qaengine/page-tags.php:16
+msgid "Tags"
+msgstr "问题标签"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:459
+msgid "Required Log In"
+msgstr "需要登录"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:518
+#, php-format
+msgid "You must have %d points to edit question."
+msgstr "你必须有% d点编辑问题。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:641
+msgid "Category must not empty"
+msgstr "类别必须非空"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:727
+msgid "Permission denied"
+msgstr "没有权限"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:888
+msgid "Answer"
+msgstr "回答"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:890
+msgid "Add New Answer"
+msgstr "添加新的回答"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:891
+msgid "Edit Answer"
+msgstr "编辑回答"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:892
+msgid "New Answer"
+msgstr "新的答案"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:893
+msgid "All Answers"
+msgstr "所有的答案"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:894
+msgid "View Answer"
+msgstr "查看答案"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:895
+msgid "Search Answers"
+msgstr "搜索答案"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:896
+msgid "No answers found"
+msgstr "没有找到答案"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:897
+msgid "No answers found in Trash"
+msgstr "没有答案中发现垃圾"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:983
+#, php-format
+msgid "You must have %d points to edit answer."
+msgstr "你必须有% d点编辑答案。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:1062
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:1190
+#: F:\www\wp\wp-content\themes\qaengine/single-answer.php:131
+#: F:\www\wp\wp-content\themes\qaengine/single-question.php:157
+#: F:\www\wp\wp-content\themes\qaengine/template/item-answer.php:118
+#, php-format
+msgid "Comment(%d) "
+msgstr "评论(% d)"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/questions.php:1079
+msgid "Login Required"
+msgstr "需要登录"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/section-badges.php:45
+msgid "User Level"
+msgstr "用户等级"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/section-badges.php:73
+msgid "Are you sure you want to delete this badge?"
+msgstr "你确定你要删除这个徽章吗?"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/section-badges.php:79
+#: F:\www\wp\wp-content\themes\qaengine/includes/section-badges.php:120
+msgid "Enter a name for your badge"
+msgstr "输入一个名称为您的徽章"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/section-badges.php:84
+#: F:\www\wp\wp-content\themes\qaengine/includes/section-badges.php:125
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-users.php:42
+msgid "Point"
+msgstr "要点"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/section-badges.php:88
+#: F:\www\wp\wp-content\themes\qaengine/includes/section-badges.php:129
+msgid "Color"
+msgstr "颜色"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/section-badges.php:95
+msgid "Add badge"
+msgstr "添加徽章"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/social_auth.php:110
+#: F:\www\wp\wp-content\themes\qaengine/includes/social_auth.php:117
+msgid "Username and password does not matched"
+msgstr "用户名和密码不匹配"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/social_auth.php:137
+msgid "Login information is missing"
+msgstr "登录信息丢失"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/social_auth.php:143
+msgid "Please provide a valid email"
+msgstr "请提供一个有效的电子邮件"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/social_auth.php:173
+msgid "Can't not authenticate user"
+msgstr "不验证用户吗"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/social_auth.php:175
+#: F:\www\wp\wp-content\themes\qaengine/includes/social_auth.php:255
+msgid "Can't find Social ID"
+msgstr "找不到社会ID"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/social_auth.php:217
+msgid ""
+"This email is already existed. If you are the owner, please enter the right "
+"password"
+msgstr "这封邮件已经存在。如果你是老板,请输入正确的密码"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/social_auth.php:246
+msgid "Username is existed, please choose another one"
+msgstr "用户名存在,请选择另一个"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/social_auth.php:304
+msgid "SIGN IN WITH TWITTER"
+msgstr "通过 TWITTER 登录"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/social_auth.php:305
+msgid ""
+"This seems to be your first time signing in using your Twitter account.If "
+"you already have an account  , please log in using the form below to link it "
+"to your Twitter account. Otherwise, please enter an email address and a "
+"password on the form, and a username on the next page to create an account."
+"You will only do this step ONCE. Next time, you'll get logged in right away."
+msgstr ""
+"这似乎是你第一次登录使用您的Twitter账户。如果你已经有一个帐户,请使用下面的表"
+"格链接登录你的Twitter账户。否则,请输入一个电子邮件地址和密码的形式,和用户名在"
+"下一个页面上创建一个帐户。你只会做这一步骤一次。下一次,你会马上登录。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/social_auth.php:306
+#: F:\www\wp\wp-content\themes\qaengine/includes/social_auth.php:502
+#: F:\www\wp\wp-content\themes\qaengine/includes/social_auth.php:616
+msgid "Please provide a username to continue"
+msgstr "请提供用户名继续"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/social_auth.php:371
+msgid "Error Receiving Request Token"
+msgstr "错误接收请求令牌"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/social_auth.php:500
+msgid "SIGN IN WITH FACEBOOK"
+msgstr "通过 FACEBOOK 登录"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/social_auth.php:501
+msgid ""
+"This seems to be your first time signing in using your Facebook account.If "
+"you already have an account, please log in using the form below to link it "
+"to your Facebook account. Otherwise, please enter an email address and a "
+"password on the form, and a username on the next page to create an account."
+"You will only do this step ONCE. Next time, you'll get logged in right away."
+msgstr ""
+"这似乎是你第一次登录使用您的Facebook账户。如果你已经拥有一个帐户,请使用下面的"
+"表格链接登录到你的Facebook账户。否则,请输入一个电子邮件地址和密码的形式,和用"
+"户名在下一个页面上创建一个帐户。你只会做这一步骤一次。下一次,你会马上登录。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/social_auth.php:614
+msgid "SIGN IN WITH GOOGLE+"
+msgstr "通过 GOOGLE+ 登录"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/social_auth.php:615
+msgid ""
+"This seems to be your first time signing in using your Google+ account.If "
+"you already have an account, please log in using the form below to link it "
+"to your Facebook account. Otherwise, please enter an email address and a "
+"password on the form, and a username on the next page to create an account."
+"You will only do this step ONCE. Next time, you'll get logged in right away."
+msgstr ""
+"这似乎是你第一次登录使用您的Google +账户。如果你已经拥有一个帐户,请使用下面的"
+"表格链接登录到你的Facebook账户。否则,请输入一个电子邮件地址和密码的形式,和用"
+"户名在下一个页面上创建一个帐户。你只会做这一步骤一次。下一次,你会马上登录。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:126
+#: F:\www\wp\wp-content\themes\qaengine/sidebar-left-tablet.php:7
+#: F:\www\wp\wp-content\themes\qaengine/sidebar-left.php:5
+msgid "ASK A QUESTION"
+msgstr "问一个"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:149
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:203
+#: F:\www\wp\wp-content\themes\qaengine/mobile/functions.php:82
+#: F:\www\wp\wp-content\themes\qaengine/page-tags.php:36
+msgid "Latest"
+msgstr "最新提问"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:154
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:207
+#: F:\www\wp\wp-content\themes\qaengine/mobile/functions.php:87
+#: F:\www\wp\wp-content\themes\qaengine/single-answer.php:162
+#: F:\www\wp\wp-content\themes\qaengine/single-question.php:200
+msgid "Votes"
+msgstr "投票"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:159
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:210
+#: F:\www\wp\wp-content\themes\qaengine/mobile/functions.php:92
+msgid "Unanswered"
+msgstr "尚未解答"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:167
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:217
+#: F:\www\wp\wp-content\themes\qaengine/template/item-answer.php:56
+msgid "Pending"
+msgstr "等待"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:176
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:871
+msgid "Filter by category"
+msgstr "选择分类"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:224
+msgid "Questions Per Page: "
+msgstr "每页显示问题:"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:338
+#: F:\www\wp\wp-content\themes\qaengine/mobile/functions.php:27
+msgid "Select Category"
+msgstr "选择分类"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:492
+#, php-format
+msgid "%s today, %s this week, %s this month."
+msgstr "%s 今天, %s 本周, %s 本月."
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:578
+#, php-format
+msgid "on %s"
+msgstr "on %s"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:580
+msgid "ago"
+msgstr "以前"
+
+#. translators: min=minute
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:629
+#, php-format
+msgid "%s min"
+msgstr "%s 分钟"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:629
+#, php-format
+msgid "%s mins"
+msgstr "%s 分钟"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:634
+#, php-format
+msgid "%s hour"
+msgstr "%s小时"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:634
+#, php-format
+msgid "%s hours"
+msgstr "%s 小时"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:640
+#, php-format
+msgid "%s day"
+msgstr "%s 天"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:640
+#, php-format
+msgid "%s days"
+msgstr "%s 天"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:646
+#, php-format
+msgid "%s week"
+msgstr "%s 周"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:646
+#, php-format
+msgid "%s weeks"
+msgstr "%s 周"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:652
+#, php-format
+msgid "%s month"
+msgstr "%s 月"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:652
+#, php-format
+msgid "%s months"
+msgstr "%s 月"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:658
+#, php-format
+msgid "%s year"
+msgstr "%s 年"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:658
+#, php-format
+msgid "%s years"
+msgstr "%s 年"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:676
+msgid "year"
+msgstr "年"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:677
+msgid "month"
+msgstr "月"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:678
+msgid "day"
+msgstr "天"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:679
+msgid "hour"
+msgstr "小时"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:680
+msgid "minute"
+msgstr "分钟"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:681
+msgid "second"
+msgstr "秒"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:716
+msgid "Please fill out the form below "
+msgstr "请填写下面的表格"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:791
+#, php-format
+msgid "You must have %d points to add comment."
+msgstr "你必须有% d点添加评论。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:795
+#: F:\www\wp\wp-content\themes\qaengine/template-js/item-answer.php:99
+msgid "Add Comment"
+msgstr "添加评论"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:809
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:1071
+#: F:\www\wp\wp-content\themes\qaengine/mobile/functions.php:129
+#: F:\www\wp\wp-content\themes\qaengine/mobile/single-question.php:132
+#: F:\www\wp\wp-content\themes\qaengine/mobile/template-js/item-answer.php:67
+#: F:\www\wp\wp-content\themes\qaengine/mobile/template-js/item-answer.php:70
+#: F:\www\wp\wp-content\themes\qaengine/mobile/template/item-answer.php:119
+#: F:\www\wp\wp-content\themes\qaengine/template-js/item-answer.php:113
+msgid "Add comment"
+msgstr "添加评论"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:828
+#, php-format
+msgid ""
+"By posting your answer, you agree to the <a target=\"_blank\" href=\"%s"
+"\">privacy policy</a> and <a target=\"_blank\" href=\"%s\">terms of service."
+"</a>"
+msgstr ""
+"通过发布你的答案,你同意 <a target=\"_blank\" href=\"%s\">privacy policy</a> "
+"and <a target=\"_blank\" href=\"%s\">terms of service.</a>"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/template.php:828
+#, php-format
+msgid ""
+"By posting your question, you agree to the <a target=\"_blank\" href=\"%s"
+"\">privacy policy</a> and <a target=\"_blank\" href=\"%s\">terms of service."
+"</a>"
+msgstr ""
+"通过发布你的问题,你同意 <a target=\"_blank\" href=\"%s\">privacy policy</a> "
+"and <a target=\"_blank\" href=\"%s\">terms of service.</a>"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:110
+msgid "marked"
+msgstr "标志着"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:110
+msgid "unmarked"
+msgstr "没有标记的"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:115
+#, php-format
+msgid "[%s] Your answer has been marked as the best."
+msgstr "(% s)你的答案已经被标记为最好的。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:151
+#, php-format
+msgid "[%s] New pending question has been created."
+msgstr "(% s)创建了新的悬而未决的问题。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:192
+#, php-format
+msgid "[New Answer] Your question %s has a new reply."
+msgstr "(新回答)你的问题% s有一个新的回复。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:328
+#, php-format
+msgid "Page %s"
+msgstr "页次% s"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:409
+msgid "Password updated successfully!"
+msgstr "密码更新成功!"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:429
+#, php-format
+msgid "Congratulations! You have successfully registered to %s."
+msgstr "恭喜你!您已经成功注册到% s。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:478
+msgid "Menu display on Header"
+msgstr "菜单上显示标题"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:479
+msgid "Menu display on Left Sidebar"
+msgstr "菜单显示在左栏"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:484
+msgid "Left Sidebar"
+msgstr "左栏"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:486
+msgid "Display widgets in left sidebar"
+msgstr "在左栏显示小部件"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:489
+msgid "Right Sidebar"
+msgstr "右栏"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:491
+msgid "Display widgets in right sidebar"
+msgstr "在右栏显示小部件"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:496
+msgid "Header Sidebar"
+msgstr "标题栏"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:498
+msgid "Display widgets in header sidebar"
+msgstr "在标题栏显示小部件"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:503
+msgid "Blog's Left Sidebar"
+msgstr "博客的左栏"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:505
+msgid "Display widgets in blog's left sidebar"
+msgstr "在博客的左栏显示小部件"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:508
+msgid "Blog's Right Sidebar"
+msgstr "博客是正确的栏"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:510
+msgid "Display widgets in blog's right sidebar"
+msgstr "在博客的右栏显示小部件"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:515
+msgid "Single Question Sidebar"
+msgstr "单一问题栏"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:517
+msgid "Display widgets in single question sidebar"
+msgstr "在单一问题栏显示小部件"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:521
+msgid "Top Questions Listing Ads Banner Sidebar"
+msgstr "问题清单的广告标语栏"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:523
+msgid "Display ad banners widgets in top questions listing sidebar"
+msgstr "清单栏广告横幅部件的问题"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:527
+msgid "Bottom Ads Banner Sidebar"
+msgstr "底部的广告标语栏"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:529
+msgid "Display ad banners widgets in bottom of website"
+msgstr "在网站的底部显示广告横幅的小部件"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:533
+msgid "Content Question Ad Banner Sidebar"
+msgstr "广告标语栏内容问题"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:535
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:541
+msgid "Display ad banners widgets in bottom questions listing sidebar"
+msgstr "广告横幅部件清单栏底部的问题"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:539
+msgid "Below Answers Listing Ad Banner Sidebar"
+msgstr "清单广告标语栏下面的答案"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:554
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:566
+msgid "Reports"
+msgstr "报告"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:555
+#: F:\www\wp\wp-content\themes\qaengine/mobile/single-question.php:107
+#: F:\www\wp\wp-content\themes\qaengine/mobile/template-js/item-answer.php:50
+#: F:\www\wp\wp-content\themes\qaengine/mobile/template/item-answer.php:96
+#: F:\www\wp\wp-content\themes\qaengine/single-question.php:86
+#: F:\www\wp\wp-content\themes\qaengine/single-question.php:151
+#: F:\www\wp\wp-content\themes\qaengine/template-js/item-answer.php:85
+#: F:\www\wp\wp-content\themes\qaengine/template/item-answer.php:41
+#: F:\www\wp\wp-content\themes\qaengine/template/item-answer.php:111
+msgid "Report"
+msgstr "报告"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:557
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:593
+msgid "Add New Report"
+msgstr "添加新的报告"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:558
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:591
+msgid "Edit Report"
+msgstr "编辑报告"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:559
+msgid "New Report"
+msgstr "新报告"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:560
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:588
+msgid "All Reports"
+msgstr "所有的报告"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:561
+msgid "View Report"
+msgstr "查看报告"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:562
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:586
+msgid "Search Reports"
+msgstr "搜索报告"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:563
+msgid "No Reports found"
+msgstr "没有报告发现"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:564
+msgid "No Reports found in Trash"
+msgstr "没有发现垃圾报道"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:587
+msgid "Popular Reports"
+msgstr "受欢迎的报告"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:592
+msgid "Update Report"
+msgstr "更新报告"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:594
+msgid "New Report Name"
+msgstr "新报告名称"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:595
+msgid "Separate Reports with commas"
+msgstr "单独的报告用逗号"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:596
+msgid "Add or remove Reports"
+msgstr "添加或删除报告"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:597
+msgid "Choose from the most used Reports"
+msgstr "选择最常用的报告"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:598
+msgid "No Reports found."
+msgstr "没有发现报道。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:599
+msgid "Reports taxonomy"
+msgstr "报告分类"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:617
+msgid "Report Information"
+msgstr "报告信息"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:698
+msgid "There's a new report "
+msgstr "有一个新报告"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:811
+msgid "There was a problem with your upload."
+msgstr "有问题你的上传。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:815
+msgid "Image's size upload must be less than 1MB!"
+msgstr "图像的尺寸必须小于1 mb上传!"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:1055
+msgid "Please fill out all fields required."
+msgstr "请填写所有字段。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:1056
+msgid "Please enter your user name."
+msgstr "请输入您的用户名。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:1057
+msgid "Please enter a valid email address."
+msgstr "请输入一个有效的电子邮件地址。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:1058
+msgid "Please enter a valid username."
+msgstr "请输入一个有效的用户名。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:1059
+msgid "Please enter the same password as above."
+msgstr "请输入相同的密码。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:1060
+msgid "Please enter a valid URL."
+msgstr "请输入一个有效的URL。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:1061
+msgid "You must accept the term & privacy."
+msgstr "你必须接受这个词和隐私。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:1064
+msgid "You must be logged in to perform this action."
+msgstr "你必须登录来执行此操作。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:1065
+msgid "You don't have enought points to perform this action."
+msgstr "你没有点能来执行此操作。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:1066
+msgid "Create Topic"
+msgstr "创建主题"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:1068
+msgid "Insert Code"
+msgstr "插入代码"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:1069
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-upload-images.php:16
+msgid "No file chosen."
+msgstr "没有选择文件。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:1070
+msgid "Please insert at least one tag."
+msgstr "请至少插入一个标签。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:1073
+msgid "Sign Up"
+msgstr "注册"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:1074
+#: F:\www\wp\wp-content\themes\qaengine/mobile/header.php:82
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-authentication.php:9
+msgid "Sign In"
+msgstr "登录"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:1075
+#: F:\www\wp\wp-content\themes\qaengine/mobile/template-js/item-answer.php:36
+#: F:\www\wp\wp-content\themes\qaengine/mobile/template/item-answer.php:74
+msgid "Accept"
+msgstr "接受"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:1076
+#: F:\www\wp\wp-content\themes\qaengine/mobile/template/item-answer.php:70
+#: F:\www\wp\wp-content\themes\qaengine/template/item-answer.php:51
+msgid "Best answer"
+msgstr "最佳答案"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:1077
+msgid "Forgot Password"
+msgstr "忘记了密码"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:1078
+msgid "You have made some changes which you might want to save."
+msgstr "你已经做了一些改变,你可能想要保存。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:1079
+msgid "You must activate your account first to create questions / answers!."
+msgstr "您必须先激活你的帐户创建问题/答案!。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:1080
+msgid "User cancelled login or did not fully authorize."
+msgstr "用户取消登录或未充分授权。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:1081
+msgid "You account has been banned, you can't make this action!"
+msgstr "你的帐户已经被禁止,你不能让这个动作!"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:1095
+msgid "Post link"
+msgstr "帖子链接"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/theme.php:1107
+msgid "Unable to get post link"
+msgstr "无法获得文章的链接"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/update.php:158
+msgid "Key is invalid"
+msgstr "关键是无效的"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:6
+msgid ""
+"Drag this widget to single sidebars to display a list of related questions."
+msgstr "这个小部件拖单侧边栏显示一个列表相关的问题。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:8
+msgid "QA Related Questions"
+msgstr "QA相关问题"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:20
+msgid "RELATED QUESTIONS"
+msgstr "RELATED QUESTIONS"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:27
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:155
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:285
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:324
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:388
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:566
+msgid "Title:"
+msgstr "标题:"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:33
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:161
+msgid "Number of questions to display:"
+msgstr "显示的数量问题:"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:39
+msgid "Questions base on:"
+msgstr "问题是:"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:46
+msgid "Tag"
+msgstr "标签"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:125
+msgid "This widget should be placed in Single Question Sidebar"
+msgstr "这个小部件应放置在单一问题栏"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:137
+msgid "Drag this widget to any sidebars to display a list of hot questions."
+msgstr "这个小部件拖到任何侧边栏显示热的问题的列表。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:139
+msgid "QA Latest Questions / Hot Questions"
+msgstr "QA最新/热问题"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:151
+msgid "HOT QUESTIONS"
+msgstr "HOT QUESTIONS"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:167
+msgid "Latest questions (sort by date)"
+msgstr "最新的问题(按日期排序)"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:173
+msgid "Date range:"
+msgstr "日期范围:"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:177
+msgid "All days"
+msgstr "所有的天"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:180
+msgid "Last 7 days"
+msgstr "最后7天"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:183
+msgid "Last 30 days"
+msgstr "最后三十天"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:272
+msgid "Drag this widget to sidebar to display the statistic of website."
+msgstr "把这个小部件拖到侧边栏来显示网站的统计数据。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:274
+msgid "QA Statistics"
+msgstr "质量统计"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:282
+msgid "STATISTICS WIDGET"
+msgstr "STATISTICS WIDGET"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:311
+msgid "Drag this widget to sidebar to display the list of tags."
+msgstr "把这个小部件拖到侧边栏显示的标签列表。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:313
+msgid "QA Tags"
+msgstr "QA标签"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:321
+msgid "Tags Widget"
+msgstr "标签小部件"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:328
+msgid "Number of tag to display:"
+msgstr "标签显示数量:"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:353
+msgid "See more tags"
+msgstr "看到更多的标签"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:364
+msgid "Drag this widget to sidebar to display the list of top users."
+msgstr "把这个小部件拖到侧栏显示的用户列表。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:370
+msgid "QA Top Users"
+msgstr "QA顶级用户"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:381
+msgid "TOP USERS"
+msgstr "顶级用户"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:392
+msgid "Number of users to display:"
+msgstr "用户数量显示:"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:397
+msgid "Latest users (sort by date)"
+msgstr "最新的用户(按日期排序)"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:402
+msgid "Order By:"
+msgstr "命令:"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:515
+#, php-format
+msgid "%d Question(s)"
+msgstr ""
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:522
+#, php-format
+msgid "%d Answer(s)"
+msgstr ""
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:527
+#, php-format
+msgid "%d Point(s)"
+msgstr ""
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:552
+msgid "Drag this widget to sidebar to display the list of user's activities."
+msgstr "拖动此小部件列表栏显示用户的活动。"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:554
+msgid "QA Recent Activities"
+msgstr "QA最近的活动"
+
+#: F:\www\wp\wp-content\themes\qaengine/includes/widget.php:570
+msgid "Number of activities to display:"
+msgstr "的活动显示数量:"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/archive-question.php:23
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-questions.php:23
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-search.php:23
+#: F:\www\wp\wp-content\themes\qaengine/mobile/taxonomy.php:23
+msgid "Select Categories"
+msgstr "选择类别"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/author.php:98
+msgid "Enter keyword"
+msgstr "输入关键字"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/category.php:23
+msgid "Find a blog"
+msgstr "搜索博客"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/category.php:43
+#: F:\www\wp\wp-content\themes\qaengine/mobile/index.php:43
+msgid "No posts yet."
+msgstr "没有文章。"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/functions.php:16
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-question.php:30
+#, php-format
+msgid ""
+"You must have %d points to add tag. Current, you have to select existed tags."
+msgstr "你必须有% d点添加标签。当前,必须选择存在的标签。"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/functions.php:21
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-question.php:18
+msgid "Your Question"
+msgstr "你的问题？"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/functions.php:41
+msgid "Your Description"
+msgstr "你的描述"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/functions.php:44
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-question.php:25
+msgid "Tag(max 5 tags)"
+msgstr "标签（最多5个）"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/functions.php:53
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-question.php:12
+msgid "Ask a Question"
+msgstr "问一个问题"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/functions.php:128
+#: F:\www\wp\wp-content\themes\qaengine/mobile/template-js/item-answer.php:66
+msgid "Type your comment"
+msgstr "输入你的评论"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/header.php:4
+msgid "MOBILE VERSION"
+msgstr "MOBILE VERSION"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/header.php:73
+msgid "Sign Out"
+msgstr "签署了"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-badges.php:18
+#: F:\www\wp\wp-content\themes\qaengine/page-badges.php:16
+msgid "Badges"
+msgstr "徽章"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-badges.php:37
+#: F:\www\wp\wp-content\themes\qaengine/page-badges.php:21
+msgid "Points System"
+msgstr "积分系统"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-badges.php:38
+#: F:\www\wp\wp-content\themes\qaengine/page-badges.php:22
+#: F:\www\wp\wp-content\themes\qaengine/page-badges.php:76
+msgid "You earn reputation when people vote on your posts"
+msgstr "当人们投票决定你的帖子你赚的声誉"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-badges.php:50
+#: F:\www\wp\wp-content\themes\qaengine/page-badges.php:66
+msgid "answer is accepted"
+msgstr "答案是接受"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-badges.php:70
+#: F:\www\wp\wp-content\themes\qaengine/page-badges.php:75
+msgid "Badges System"
+msgstr "徽章系统"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-badges.php:71
+msgid ""
+"At the highest levels, you'll have access to special moderation tools. "
+"You'll be able to work alongside our community moderators to keep the site "
+"focused and helpful."
+msgstr ""
+"在最高级别,您将获得特殊的监督工具。你可以一起工作我们的社区版主保持网站专注和"
+"有帮助的。"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-badges.php:85
+#: F:\www\wp\wp-content\themes\qaengine/page-badges.php:95
+msgid "points require"
+msgstr "点要求"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-badges.php:88
+#: F:\www\wp\wp-content\themes\qaengine/page-badges.php:99
+msgid "With you can do:"
+msgstr "你能做的:"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-badges.php:91
+#: F:\www\wp\wp-content\themes\qaengine/page-badges.php:102
+msgid "Edit other people's questions"
+msgstr "编辑别人的问题"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-badges.php:95
+#: F:\www\wp\wp-content\themes\qaengine/page-badges.php:112
+msgid "Edit other people's answers"
+msgstr "编辑别人的答案"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-badges.php:99
+#: F:\www\wp\wp-content\themes\qaengine/page-badges.php:116
+msgid "Vote down (costs 1 point on answers)"
+msgstr "否决(成本1点答案)"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-badges.php:103
+#: F:\www\wp\wp-content\themes\qaengine/page-badges.php:122
+msgid "Leave comments"
+msgstr "留言"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-badges.php:107
+#: F:\www\wp\wp-content\themes\qaengine/page-badges.php:126
+msgid "Vote up"
+msgstr "投票了"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-categories.php:18
+#: F:\www\wp\wp-content\themes\qaengine/page-categories.php:13
+msgid "Categories"
+msgstr "类别"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-categories.php:23
+msgid "Find a categories"
+msgstr "找到一个类别"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-categories.php:39
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-tags.php:40
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-users.php:37
+#: F:\www\wp\wp-content\themes\qaengine/page-categories.php:26
+#: F:\www\wp\wp-content\themes\qaengine/page-tags.php:30
+#: F:\www\wp\wp-content\themes\qaengine/page-users.php:42
+msgid "Name"
+msgstr "的名字"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-categories.php:44
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-tags.php:45
+#: F:\www\wp\wp-content\themes\qaengine/page-categories.php:29
+#: F:\www\wp\wp-content\themes\qaengine/page-tags.php:33
+msgid "Popular"
+msgstr "受欢迎的"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-intro.php:86
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-intro.php:123
+#: F:\www\wp\wp-content\themes\qaengine/page-intro.php:88
+#: F:\www\wp\wp-content\themes\qaengine/page-intro.php:136
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-authentication.php:25
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-authentication.php:86
+msgid "Sign in"
+msgstr "登录"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-intro.php:86
+#: F:\www\wp\wp-content\themes\qaengine/page-intro.php:88
+msgid "or"
+msgstr ""
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-intro.php:87
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-intro.php:183
+#: F:\www\wp\wp-content\themes\qaengine/page-intro.php:88
+#: F:\www\wp\wp-content\themes\qaengine/page-intro.php:196
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-authentication.php:28
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-authentication.php:85
+msgid "Sign up"
+msgstr "注册"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-intro.php:103
+#: F:\www\wp\wp-content\themes\qaengine/page-intro.php:120
+msgid "Remember me"
+msgstr "记得我"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-intro.php:110
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-intro.php:159
+#: F:\www\wp\wp-content\themes\qaengine/page-intro.php:107
+#: F:\www\wp\wp-content\themes\qaengine/page-intro.php:172
+#: F:\www\wp\wp-content\themes\qaengine/page-social-connect.php:43
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-authentication.php:19
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-authentication.php:72
+msgid "Password"
+msgstr "密码"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-intro.php:116
+msgid "Fogot password ?"
+msgstr "忘记密码？"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-intro.php:139
+#: F:\www\wp\wp-content\themes\qaengine/page-intro.php:152
+#: F:\www\wp\wp-content\themes\qaengine/page-social-connect.php:42
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-authentication.php:67
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-profile.php:55
+msgid "Email"
+msgstr "电子邮件"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-intro.php:147
+#: F:\www\wp\wp-content\themes\qaengine/page-intro.php:160
+msgid "User Name"
+msgstr "用户名"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-intro.php:167
+#: F:\www\wp\wp-content\themes\qaengine/page-intro.php:180
+msgid "Repeat Password"
+msgstr "重复密码"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-intro.php:177
+#: F:\www\wp\wp-content\themes\qaengine/page-intro.php:190
+msgid ""
+"By clicking \"Sign Up\" you indicate that you have read and agree to the"
+msgstr "通过点击“注册”你表明您已经阅读并同意"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-intro.php:177
+#: F:\www\wp\wp-content\themes\qaengine/page-intro.php:190
+msgid "Terms of Service."
+msgstr "服务条款。"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-questions.php:17
+msgid "All Question"
+msgstr "所有的问题"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-search.php:17
+msgid "Search Question"
+msgstr "搜索的问题"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-tags.php:24
+msgid "Find a tag"
+msgstr "寻找一个标签"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-users.php:16
+#: F:\www\wp\wp-content\themes\qaengine/page-users.php:29
+msgid "Users"
+msgstr "用户"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/page-users.php:21
+msgid "Find a user"
+msgstr "找到一个用户"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/single-question.php:13
+#: F:\www\wp\wp-content\themes\qaengine/mobile/template/answer-loop.php:7
+#: F:\www\wp\wp-content\themes\qaengine/mobile/template/item-answer.php:7
+#: F:\www\wp\wp-content\themes\qaengine/mobile/template/question-loop.php:5
+#: F:\www\wp\wp-content\themes\qaengine/single-answer.php:14
+#: F:\www\wp\wp-content\themes\qaengine/single-question.php:13
+#: F:\www\wp\wp-content\themes\qaengine/template/answer-loop.php:7
+#: F:\www\wp\wp-content\themes\qaengine/template/pending-question-loop.php:5
+#: F:\www\wp\wp-content\themes\qaengine/template/question-loop.php:5
+msgid "No Category"
+msgstr "没有分类"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/single-question.php:73
+#: F:\www\wp\wp-content\themes\qaengine/mobile/template/question-loop.php:53
+#, php-format
+msgid "Asked by %s %s in"
+msgstr "问% s % s"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/single-question.php:92
+#: F:\www\wp\wp-content\themes\qaengine/single-answer.php:82
+#: F:\www\wp\wp-content\themes\qaengine/single-question.php:103
+#: F:\www\wp\wp-content\themes\qaengine/template-js/item-answer.php:73
+msgid "Answered"
+msgstr "回答"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/single-question.php:103
+#: F:\www\wp\wp-content\themes\qaengine/mobile/template-js/item-answer.php:46
+#: F:\www\wp\wp-content\themes\qaengine/mobile/template/item-answer.php:92
+#: F:\www\wp\wp-content\themes\qaengine/single-answer.php:125
+#: F:\www\wp\wp-content\themes\qaengine/single-question.php:146
+#: F:\www\wp\wp-content\themes\qaengine/template-js/item-answer.php:80
+#: F:\www\wp\wp-content\themes\qaengine/template/item-answer.php:106
+msgid "Share"
+msgstr "分享"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/single-question.php:111
+#: F:\www\wp\wp-content\themes\qaengine/mobile/template-js/item-answer.php:53
+#: F:\www\wp\wp-content\themes\qaengine/mobile/template/item-answer.php:99
+msgid "Comment"
+msgstr "评论"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/single-question.php:150
+msgid "Vote"
+msgstr "投票"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/single-question.php:151
+#: F:\www\wp\wp-content\themes\qaengine/single-answer.php:165
+#: F:\www\wp\wp-content\themes\qaengine/single-question.php:206
+msgid "Oldest"
+msgstr "最早"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/single-question.php:218
+#: F:\www\wp\wp-content\themes\qaengine/mobile/single-question.php:223
+#: F:\www\wp\wp-content\themes\qaengine/single-answer.php:189
+#: F:\www\wp\wp-content\themes\qaengine/single-question.php:233
+msgid "Post answer"
+msgstr "提交答案"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/single-question.php:222
+msgid "Type your answer"
+msgstr "输入你的答案"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/taxonomy.php:56
+msgid "There is no questions in this catetgory!."
+msgstr "在这catetgory !没有问题。"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/template-js/item-answer.php:21
+msgid "Answered by "
+msgstr "回答"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/template/answer-loop.php:52
+#: F:\www\wp\wp-content\themes\qaengine/single-answer.php:115
+#: F:\www\wp\wp-content\themes\qaengine/single-question.php:136
+#: F:\www\wp\wp-content\themes\qaengine/template/answer-loop.php:24
+#: F:\www\wp\wp-content\themes\qaengine/template/pending-question-loop.php:40
+#: F:\www\wp\wp-content\themes\qaengine/template/question-loop.php:41
+#, php-format
+msgid "Asked %s in"
+msgstr "提问于% s"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/template/answer-loop.php:61
+msgid "Accepted"
+msgstr "接受"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/template/categories-orderby_name.php:55
+#: F:\www\wp\wp-content\themes\qaengine/mobile/template/categories-orderby_name.php:65
+#: F:\www\wp\wp-content\themes\qaengine/mobile/template/tags-orderby_name.php:54
+#: F:\www\wp\wp-content\themes\qaengine/mobile/template/tags-orderby_name.php:64
+#, php-format
+msgid "Touch here to see more %s tags"
+msgstr "联系在这里看到更多% s标记"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/template/item-answer.php:43
+msgid "Pending Answer"
+msgstr "等待回答"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/template/item-answer.php:52
+#, php-format
+msgid "Answered by %s %s."
+msgstr "回答% s % s。"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/template/item-answer.php:80
+#: F:\www\wp\wp-content\themes\qaengine/single-question.php:92
+#: F:\www\wp\wp-content\themes\qaengine/template/item-answer.php:17
+#: F:\www\wp\wp-content\themes\qaengine/template/pending-question-loop.php:58
+msgid "Approve"
+msgstr "批准"
+
+#: F:\www\wp\wp-content\themes\qaengine/mobile/template/post-loop.php:37
+#: F:\www\wp\wp-content\themes\qaengine/single.php:59
+#: F:\www\wp\wp-content\themes\qaengine/template/post-loop.php:39
+msgid "READ MORE"
+msgstr "阅读更多"
+
+#: F:\www\wp\wp-content\themes\qaengine/page-badges.php:106
+msgid "Vote to close, reopen, or migrate questions"
+msgstr "投票关闭、重启或迁移的问题"
+
+#: F:\www\wp\wp-content\themes\qaengine/page-categories.php:17
+msgid "Find Categories"
+msgstr "找到类别"
+
+#: F:\www\wp\wp-content\themes\qaengine/page-intro.php:127
+msgid "Forgot password ?"
+msgstr "忘记了密码?"
+
+#: F:\www\wp\wp-content\themes\qaengine/page-search.php:16
+#, php-format
+msgid "Search Questions: <em>%s</em>"
+msgstr "搜索的问题: <em>%s</em>"
+
+#: F:\www\wp\wp-content\themes\qaengine/page-search.php:44
+#: F:\www\wp\wp-content\themes\qaengine/search.php:37
+msgid "No results for keyword:"
+msgstr "没有结果的关键字:"
+
+#: F:\www\wp\wp-content\themes\qaengine/page-social-connect.php:53
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-authentication.php:62
+msgid "Username"
+msgstr "用户名"
+
+#: F:\www\wp\wp-content\themes\qaengine/page-tags.php:20
+msgid "Find Tags"
+msgstr "找到标签"
+
+#: F:\www\wp\wp-content\themes\qaengine/page-term.php:16
+#: F:\www\wp\wp-content\themes\qaengine/page.php:16
+msgid "Page"
+msgstr "页面"
+
+#: F:\www\wp\wp-content\themes\qaengine/page-users.php:33
+msgid "Find Users"
+msgstr "找到用户"
+
+#: F:\www\wp\wp-content\themes\qaengine/page-users.php:101
+#, php-format
+msgid "%d Points"
+msgstr ""
+
+#: F:\www\wp\wp-content\themes\qaengine/page-users.php:108
+msgid "No users found."
+msgstr "没有找到用户。"
+
+#: F:\www\wp\wp-content\themes\qaengine/sidebar-left-tablet.php:37
+#: F:\www\wp\wp-content\themes\qaengine/sidebar-left.php:35
+msgid "Term & Privacy"
+msgstr "术语和隐私"
+
+#: F:\www\wp\wp-content\themes\qaengine/single-answer.php:48
+#: F:\www\wp\wp-content\themes\qaengine/single-question.php:35
+msgid "Home"
+msgstr "首页"
+
+#: F:\www\wp\wp-content\themes\qaengine/single-answer.php:181
+#: F:\www\wp\wp-content\themes\qaengine/single-question.php:225
+msgid "Your Answer"
+msgstr "你的回答"
+
+#: F:\www\wp\wp-content\themes\qaengine/single-question.php:59
+#: F:\www\wp\wp-content\themes\qaengine/template-js/item-comment.php:15
+#: F:\www\wp\wp-content\themes\qaengine/template/item-answer.php:34
+#: F:\www\wp\wp-content\themes\qaengine/template/item-comment.php:23
+#: F:\www\wp\wp-content\themes\qaengine/template/pending-question-loop.php:76
+msgid "Delete"
+msgstr "删除"
+
+#: F:\www\wp\wp-content\themes\qaengine/single-question.php:77
+msgid "Unfollow"
+msgstr "取消关注"
+
+#: F:\www\wp\wp-content\themes\qaengine/single-question.php:194
+msgid "Answer(s)"
+msgstr "个答案"
+
+#: F:\www\wp\wp-content\themes\qaengine/single-question.php:203
+msgid "Active"
+msgstr "活跃的"
+
+#: F:\www\wp\wp-content\themes\qaengine/single.php:50
+#: F:\www\wp\wp-content\themes\qaengine/template/post-loop.php:30
+msgid "Pages:"
+msgstr "页面:"
+
+#: F:\www\wp\wp-content\themes\qaengine/template-js/search-preview.php:15
+#, php-format
+msgid "View all %s results"
+msgstr "查看所有% s的结果"
+
+#: F:\www\wp\wp-content\themes\qaengine/template-js/search-preview.php:17
+msgid "View all results"
+msgstr "查看所有结果"
+
+#: F:\www\wp\wp-content\themes\qaengine/template-js/search-preview.php:19
+msgid "No results found"
+msgstr "没有找到结果"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/answer-loop.php:49
+msgid "This answer accepted by"
+msgstr "接受这个答案"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/answer-loop.php:51
+#, php-format
+msgid "Earned %d points."
+msgstr "获得% d点。"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/answer-loop.php:62
+#: F:\www\wp\wp-content\themes\qaengine/template/question-loop.php:56
+msgid "views"
+msgstr "浏览"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/answer-loop.php:68
+#: F:\www\wp\wp-content\themes\qaengine/template/question-loop.php:62
+msgid "answers"
+msgstr "答案"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/answer-loop.php:74
+#: F:\www\wp\wp-content\themes\qaengine/template/question-loop.php:68
+msgid "votes"
+msgstr "投票"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/item-answer.php:96
+#, php-format
+msgid "Answered %s."
+msgstr "%s回答"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/item-vote.php:26
+#, php-format
+msgid "You must have %d points to vote up."
+msgstr "你必须有% d值就可以投票了。"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/item-vote.php:31
+#, php-format
+msgid "You must have %d points to vote down."
+msgstr "你必须有% d指向否决。"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/item-vote.php:40
+msgid "This is useful."
+msgstr "这是有用的"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/item-vote.php:54
+msgid "This is not useful"
+msgstr "这不是有用的"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/item-vote.php:74
+msgid "Mark as best answer"
+msgstr "标记为最佳答案"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-authentication.php:14
+msgid "Username or Email"
+msgstr "用户名或电子邮件"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-authentication.php:23
+msgid "Forgot password"
+msgstr "忘记了密码"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-authentication.php:77
+msgid "Retype Password"
+msgstr "重新输入密码"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-authentication.php:92
+#, php-format
+msgid ""
+"By clicking \"Sign up\" you indicate that you have read and agree to the <a "
+"target=\"_blank\" href=\"%s\">privacy policy</a> and <a target=\"_blank\" "
+"href=\"%s\">terms of service.</a>"
+msgstr ""
+"通过点击“注册”你表明您已经阅读并同意 <a target=\"_blank\" href=\"%s"
+"\">privacy policy</a> and <a target=\"_blank\" href=\"%s\">terms of service."
+"</a>"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-authentication.php:99
+msgid "Enter your email here"
+msgstr "在这里输入你的电子邮件"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-authentication.php:101
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-contact.php:17
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-report.php:17
+msgid "Send"
+msgstr "发送"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-contact.php:9
+msgid "Contact "
+msgstr "联系"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-contact.php:15
+msgid "Your message:"
+msgstr "你的信息:"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-contact.php:16
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-report.php:16
+msgid "Got something to say? Type your message here."
+msgstr "有什么话要说吗?在这里输入您的消息。"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-forgotpass.php:6
+msgid "Reset Password"
+msgstr "重置密码"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-forgotpass.php:13
+msgid "Enter your new password here"
+msgstr "在这里输入你的新密码"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-forgotpass.php:16
+msgid "Reset"
+msgstr "重置"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-profile.php:6
+msgid "Edit Profile"
+msgstr "编辑配置文件"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-profile.php:31
+msgid "Upload New Avatar"
+msgstr "上传新的头像"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-profile.php:33
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-profile.php:76
+msgid "Change Password"
+msgstr "更改密码"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-profile.php:34
+msgid "Change Profile"
+msgstr "改变配置文件"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-profile.php:40
+msgid "Full name"
+msgstr "全名"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-profile.php:43
+msgid "Location"
+msgstr "位置"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-profile.php:46
+msgid "Facebook"
+msgstr "Facebook"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-profile.php:49
+msgid "Twitter"
+msgstr "Twitter"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-profile.php:52
+msgid "Google+"
+msgstr "Google+"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-profile.php:57
+msgid "Make this email public."
+msgstr "公开这封电子邮件。"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-profile.php:61
+msgid "Description"
+msgstr "描述"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-profile.php:66
+msgid "Update Profile"
+msgstr "更新配置文件"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-profile.php:70
+msgid "Old Password"
+msgstr "旧密码"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-profile.php:72
+msgid "New Password"
+msgstr "新密码"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-profile.php:74
+msgid "Repeat New Password"
+msgstr "重复新密码"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-question.php:26
+msgid "Press enter to add new tag"
+msgstr "按enter键添加新标签"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-question.php:33
+msgid "SUBMIT QUESTION"
+msgstr "提交问题"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-report.php:11
+msgid "Report "
+msgstr "报告"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-report.php:15
+msgid "Your message"
+msgstr "你的信息"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-upload-images.php:6
+msgid "Insert Images"
+msgstr "插入图片"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-upload-images.php:10
+msgid "Upload an image"
+msgstr "上传一个图像"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-upload-images.php:16
+msgid "Please log in to use this function."
+msgstr "请登录使用这个函数。"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-upload-images.php:18
+msgid "Admin has disabled this function."
+msgstr "管理员禁用这个函数。"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-upload-images.php:27
+msgid "Add an image via URL"
+msgstr "通过URL添加一个图像"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/modal-upload-images.php:31
+msgid "Insert"
+msgstr "插入"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/pending-question-loop.php:67
+msgid "Reject"
+msgstr "拒绝"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/question-loop.php:7
+msgid "Pending Question"
+msgstr "悬而未决的问题"
+
+#: F:\www\wp\wp-content\themes\qaengine/template/tags-orderby_name.php:38
+msgid "Digit"
+msgstr ""

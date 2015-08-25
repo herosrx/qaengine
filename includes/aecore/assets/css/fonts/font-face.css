@@ -1,0 +1,54 @@
+/* Pictos Font
+* Copyright © 2010 Drew Wilson
+* http://www.drewwilson.com  -  http://pictos.drewwilson.com
+*
+* The fonts included in this stylesheet are subject to the End User License you purchased
+* from Drew Wilson. The fonts are protected under domestic and international trademark and 
+* copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+* distributing this font software.
+*
+* This font is NOT free. It is illegal to use this font without paying for a license. 
+*/
+
+/* @import url(http://fonts.googleapis.com/css?family=Quicksand); */
+
+@font-face {
+	font-family: 'Pictos';
+	src: url('pictos-web.eot');
+	src: url('pictos-web.woff') format('woff'), url('pictos-web.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'eticon';
+	src: url('et-webfont.eot');
+	src: url('et-webfont.woff') format('woff'), url('et-webfont.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Quicksand';
+	src: url('quicksand-bold-webfont.eot');
+	src: url('quicksand-bold-webfont.woff') format('woff'), url('quicksand-bold-webfont.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Helvetica Light';
+	src: url('helvetica-light-webfont.eot');
+	src: url('helvetica-light-webfont.woff') format('woff'), url('helvetica-light.ttf') format('truetype');
+}
+
+.font-quicksand {
+	font-family: 'Quicksand', Arial, sans-serif !important;
+	font-weight: bold;
+	text-shadow: 0 0 1px rgba(255,255,255,0.1);
+}
+
+.font-helveticalight {
+	font-family: 'Helvetica Light', Arial, sans-serif !important;
+	text-shadow: 0 0 1px rgba(255,255,255,0.1);
+}

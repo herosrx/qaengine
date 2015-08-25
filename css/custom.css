@@ -1,0 +1,218 @@
+/* ---------------------------------------- */
+/*          C U S T O M  S T Y L E          */
+/* ---------------------------------------- */
+
+/* ============= COLOR ================ */
+.sort-questions ul li a,
+#header_search input,
+#submit_question input,
+.paginations ul li a{
+	color: #8c97b2;
+}
+.widget-links ul li i,
+.widget-menus ul li a,
+.header-menu ul li a,
+.user-post-count .questions-count {
+	color: #78829d
+}
+.widget-links ul li a {
+	color: #15a4fa;
+}
+.main-questions-list .q-ltop-content a.question-title,
+.answers-filter .answers-count,
+.form-reply h3 {
+	color: #444c63;
+}
+.main-questions-list .q-lbtm-content .question-excerpt,
+.single-header .vote-block a,
+.comment-edit a,
+.comment-time,
+.q-tag {
+	color: #6f7d95
+}
+.current-category span,
+.widget-related-tags h3,
+.widget-hot-questions h3,
+.single-head span.back,
+.single-head span.next,
+.user-post-count .answers-count,
+.user-info ul li.name  {
+	color: #2c3e50;
+}
+.header-avatar span.display_name,
+.header-avatar i,
+.ask-question,
+.modal-submit-questions .btn-submit-question,
+.question-main-content .top-content span.answered,
+.paginations ul li a:hover,
+.paginations ul li a.current,
+.contact-block button {
+	color: #fff;
+}
+.single-head h3,
+ul.dropdown-profile li:hover a,
+ul.dropdown-profile li:hover a i,
+span.star i,
+.user-post-count .points-count {
+	color: #3498db;
+}
+.question-main-content .question-content {
+	color: #5f6f81;
+}
+ul.dropdown-profile li a i,
+.user-post-count .questions-count span,
+.user-post-count .answers-count span {
+	color: #78829d;
+}
+/* ============= BACKGROUND COLOR ================ */
+#header {
+	background: #2f364a;
+}
+.header-menu {
+	background: #19202e;
+}
+.select-grey-bg,
+.widget-related-tags li a,
+.q-tag {
+	background: #f3f5f9;
+}
+.widget-menus ul li:hover {
+	background: #f0f0f0;
+}
+.ask-question,
+.modal-submit-questions .btn-submit-question,
+.question-main-content .vote-block span,
+.contact-block button  {
+	background: #3498db;
+}
+.right-sidebar,
+.modal-submit-questions .modal-body {
+	background: #eef1f7;
+}
+.question-main-content .top-content span.answered {
+	background: #1abc9c;
+}
+.question-main-content .top-content span.best-answer {
+	background: #f39c12;
+}
+.highlight {
+	background: #fbfcff;
+}
+ul.dropdown-profile li:hover a {
+	background: #fff;
+}
+
+/* Form report Css */
+.reportFormModal{
+	margin:30px auto;
+}
+.reportFormModal .modal-body {
+	background: #eef1f7;
+	padding: 30px;
+	padding-top: 20px;
+	border-radius: 3px;
+}
+.reportFormModal h4.modal-title {
+	text-align: center;
+	color: #2c3e50;
+	font-size: 20px;
+}
+#reportFormModal #txt_report,
+#txt_msg {
+	width: 100%;
+	padding: 15px;
+	resize:none;
+	color: #bdc3c7 !important;
+	font-size: 14px;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border: 1px solid #dadfea;
+}
+#reportFormModal .message p {
+	margin-bottom: 15px;
+	color: #7b7b7b;
+	font-weight: 600;
+	font-size: 1em;
+}
+/* css Page social connect*/
+ul.social-icon{
+	display: inline-block;
+	vertical-align: middle;
+	float: right;
+	margin-top: 5px;
+}
+.social-auth {
+	width: 600px;
+	margin: 0 auto;
+	text-align: left;
+	max-width: 100%;
+}
+.social-icon .sc-icon {
+	font-size: 30px;
+}
+.social-icon .color-google{
+	color:#dd4b39;
+}
+.social-icon .color-facebook{
+	color:#3b5998;
+}
+.social-icon .color-twitter{
+	color:#00aced;
+}
+.social-icon li {
+	display: inline-block;
+	margin-left: 5px;
+}
+.social-auth .social-form {
+	margin-top:30px;
+}
+.social-auth input {
+	height: 35px;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border: 1px solid #dadfea;
+	padding-left: 15px;
+	margin-bottom: 20px;
+	outline: none;
+	width: 45%;
+}
+.social-auth input[type="submit"] {
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	background-color: #3397db;
+	color: #fff;
+	font-size: 14px;
+	font-weight: 700;
+	border: none;
+	box-shadow: none;
+	padding: 8px 30px;
+	margin-top: 10px;
+	width: inherit;
+	display: inline-block;
+}
+.social-auth p {
+	margin: 10px 0;
+}
+.social-small, .social-big {
+	color: #7b7b7b;
+}
+.social-big {
+	font-size: 2.5em!important;
+	text-transform: uppercase;
+	font-weight: bold;
+	padding: 20px 0px 10px 0px;
+}
+.social-auth.social-auth-step2 {
+	display: none;
+}
+.social-form input[type="text"]{
+	margin-right: 10px;
+}
+.sign-in-social {
+	position: absolute;
+	top: 130px;
+	z-index:99;
+}
